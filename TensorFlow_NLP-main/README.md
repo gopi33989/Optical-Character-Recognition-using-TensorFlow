@@ -1,4 +1,4 @@
-By now you may be pretty familiar with my story so I will skip ahead to the good stuff, with just a brief refresher that I am now preparing for the <a href="https://www.tensorflow.org/certificate" target="_blank">TensorFlow Developer Certificate</a> and really falling in love with deep learning.  It has many useful applications, and one in particular is Natural Language Processing. When you combine computer vision, NLP and voice recognition, artificial intelligence is really starting to feel like the sci-fi movies that inspired us as kids.
+
 
 This project explored the fundamentals of NLP using the great IMDB reviews dataset.  It is another very popular dataset in machine learning research and contains 50,000 reviews labeled as positive or negative to be used for training and testing as well as an additional 50,000 unlabeled reviews to be used for predictions if desired (I did not use them at this time).  Below is a simple graphic outlying the basic NLP workflow.
 
